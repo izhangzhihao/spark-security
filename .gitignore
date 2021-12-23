@@ -1,0 +1,86 @@
+# Byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs*/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+node_modules
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+env
+env3
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.python-version
+.DS_Store
+.idea
+.mvn/
+mvnw
+mvnw.cmd
+*.iml
+*.gradle
+*.tgz
+*.tar.gz
+*.jar
+target
+
+# interpreter temp files
+derby.log
+spark-1.*-bin-hadoop*
+.spark-dist
+
+
+
+
+# vscode file
+.project
+.classpath
+.settings
+.factorypath
+.vscode/settings.json
+.vscode/tasks.json
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# redundant logging files
+*.log
+
+# installation binary
